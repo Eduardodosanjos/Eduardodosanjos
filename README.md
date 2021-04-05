@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td><img  height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eduardodosanjos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/></td>
-        <td><img height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&langs_count=8&theme=buefy"/></td>
+        <td><img  height="180em" width="380px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eduardodosanjos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/></td>
+        <td><img height="180em" width="380px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&langs_count=8&theme=buefy"/></td>
      </tr>
  </table>
   
