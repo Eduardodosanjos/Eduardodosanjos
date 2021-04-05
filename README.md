@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 - I'm passionate about solving problems, learning, science and Technology.
  -Always open to new challenges and ready to face changes.
 
-
-  <img  height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eduardodosanjos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&langs_count=8&theme=buefy"/><br>
+<table>
+    <tr>
+        <td><img  height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eduardodosanjos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/></td>
+        <td><img height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&langs_count=8&theme=buefy"/></td>
+     </tr>
+ </table>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
