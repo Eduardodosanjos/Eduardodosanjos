@@ -37,7 +37,5 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/du_dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-- If you prefer, that's my ✉️ eduardo.dosanjos@hotmail.com
-
 ![](https://komarev.com/ghpvc/?username=Eduardodosanjos&color=blue&style=flat)
 
