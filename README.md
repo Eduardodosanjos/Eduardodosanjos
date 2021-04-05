@@ -30,3 +30,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/eduardo-dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/du_dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/eduardodosanjos](https://codepen.io/eduardodosanjos))](https://codepen.io/eduardodosanjos)
