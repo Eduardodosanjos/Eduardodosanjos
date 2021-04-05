@@ -32,12 +32,11 @@ Always open to new challenges and ready to face changes.
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
-  
   <div>
   <a href="https://www.linkedin.com/in/eduardo-dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/du_dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 - If you prefer, that's my ✉️ eduardo.dosanjos@hotmail.com
 
 ![](https://komarev.com/ghpvc/?username=Eduardodosanjos&color=blue&style=flat)
