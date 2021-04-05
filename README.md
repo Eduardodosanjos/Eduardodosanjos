@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - I'm passionate about solving problems, learning, science and Technology.
 
--Always open to new challenges and ready to face changes.
+- Always open to new challenges and ready to face changes.
  
 <table>
  <tr>
