@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 ## Hey there 👋
 
-My name is Eduardo Henrique
+- My name is Eduardo Henrique
 
-I'm a Computer Science student 💻
+- I'm a Computer Science student 💻
 
-I'm passionate about solving problems, learning, science and Technology.
-Always open to new challenges and ready to face changes.
+- I'm passionate about solving problems, learning, science and Technology.
+ -Always open to new challenges and ready to face changes.
 
 
   <img  height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eduardodosanjos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
@@ -36,6 +36,7 @@ Always open to new challenges and ready to face changes.
   <a href="https://www.linkedin.com/in/eduardo-dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/du_dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 
 - If you prefer, that's my ✉️ eduardo.dosanjos@hotmail.com
 
