@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 - Always open to new challenges and ready to face changes.
  
-<table>
- <tr>
-  <td><img  height="180em" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eduardodosanjos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/></td>
-  <td><img height="180em" width="380px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&langs_count=8&theme=buefy"/></td>
-  </tr>
- </table>
- 
+ <a href="https://github.com/Eduardodosanjos/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardodosanjos&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Eduardodosanjos github stats" />
+</a>
+</a>
+<a href="https://github.com/Eduardodosanjos/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&theme=material-palenight" />
+</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
