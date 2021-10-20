@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 </a>
 <a href="https://github.com/Eduardodosanjos/github-readme-stats">
-  <img height="180em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&theme=dracula" />
+  <img height="180em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&theme=onedark" />
 </a>
   
 <div style="display: inline_block"><br>
