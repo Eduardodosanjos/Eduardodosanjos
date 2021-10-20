@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - Always open to new challenges and ready to face changes.
  
  <a href="https://github.com/Eduardodosanjos/github-readme-stats">
-  <img height="180em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardodosanjos&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Eduardodosanjos github stats" />
+  <img height="180em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardodosanjos&show_icons=true&include_all_commits=true&theme=dark" alt="Eduardodosanjos github stats" />
 </a>
 </a>
 <a href="https://github.com/Eduardodosanjos/github-readme-stats">
-  <img height="180em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&theme=onedark" />
+  <img height="180em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodosanjos&layout=compact&theme=dark" />
 </a>
   
 <div style="display: inline_block"><br>
