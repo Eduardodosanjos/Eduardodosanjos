@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - My name is Eduardo Henrique
 
-- I'm a Data Science student 💻
+- I'm a Data Analist student 💻
 
 - I'm passionate about solving problems, learning, science and Technology.
 
