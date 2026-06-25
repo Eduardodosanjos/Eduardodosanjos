@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey there 👋
 
-- My name is Eduardo Henrique
+- My name is Eduardo Henrique dos Anjos
 
 - I'm a Data Analist student 💻
 
